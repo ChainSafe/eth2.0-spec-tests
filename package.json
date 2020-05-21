@@ -1,0 +1,11 @@
+{
+  "name": "@chainsafe/eth2-spec-tests",
+  "version": "0.11.1",
+  "files": [
+    "tests"
+  ],
+  "repository": "git@github.com:ChainSafe/eth2.0-spec-tests.git",
+  "author": "Chainsafe Systems",
+  "license": "MIT",
+  "private": false
+}
